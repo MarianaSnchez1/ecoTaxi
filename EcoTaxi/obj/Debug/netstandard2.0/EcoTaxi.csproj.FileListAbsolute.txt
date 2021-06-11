@@ -1,0 +1,14 @@
+C:\Users\santi\OneDrive\Escritorio\Hackaton_Taxis_Libres\EcoTaxi\EcoTaxi\EcoTaxi\bin\Debug\netstandard2.0\EcoTaxi.deps.json
+C:\Users\santi\OneDrive\Escritorio\Hackaton_Taxis_Libres\EcoTaxi\EcoTaxi\EcoTaxi\bin\Debug\netstandard2.0\EcoTaxi.dll
+C:\Users\santi\OneDrive\Escritorio\Hackaton_Taxis_Libres\EcoTaxi\EcoTaxi\EcoTaxi\bin\Debug\netstandard2.0\ref\EcoTaxi.dll
+C:\Users\santi\OneDrive\Escritorio\Hackaton_Taxis_Libres\EcoTaxi\EcoTaxi\EcoTaxi\bin\Debug\netstandard2.0\EcoTaxi.pdb
+C:\Users\santi\OneDrive\Escritorio\Hackaton_Taxis_Libres\EcoTaxi\EcoTaxi\EcoTaxi\obj\Debug\netstandard2.0\EcoTaxi.csprojAssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\Hackaton_Taxis_Libres\EcoTaxi\EcoTaxi\EcoTaxi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santi\OneDrive\Escritorio\Hackaton_Taxis_Libres\EcoTaxi\EcoTaxi\EcoTaxi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santi\OneDrive\Escritorio\Hackaton_Taxis_Libres\EcoTaxi\EcoTaxi\EcoTaxi\obj\Debug\netstandard2.0\EcoTaxi.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Hackaton_Taxis_Libres\EcoTaxi\EcoTaxi\EcoTaxi\obj\Debug\netstandard2.0\EcoTaxi.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Escritorio\Hackaton_Taxis_Libres\EcoTaxi\EcoTaxi\EcoTaxi\obj\Debug\netstandard2.0\EcoTaxi.dll
+C:\Users\santi\OneDrive\Escritorio\Hackaton_Taxis_Libres\EcoTaxi\EcoTaxi\EcoTaxi\obj\Debug\netstandard2.0\ref\EcoTaxi.dll
+C:\Users\santi\OneDrive\Escritorio\Hackaton_Taxis_Libres\EcoTaxi\EcoTaxi\EcoTaxi\obj\Debug\netstandard2.0\EcoTaxi.pdb
+C:\Users\santi\OneDrive\Escritorio\Hackaton_Taxis_Libres\EcoTaxi\EcoTaxi\EcoTaxi\obj\Debug\netstandard2.0\EcoTaxi.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Hackaton_Taxis_Libres\EcoTaxi\EcoTaxi\EcoTaxi\obj\Debug\netstandard2.0\XamlC.stamp
