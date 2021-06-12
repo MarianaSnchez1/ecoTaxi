@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 using EcoTaxi.Class;
+using Xamarin.Forms.GoogleMaps;
 
 namespace EcoTaxi
 {
@@ -18,8 +19,9 @@ namespace EcoTaxi
         public MainPage()
         {
             InitializeComponent();
+            configmap();
             moveToActualPosition();
-            
+
         }
 
         void moveToActualPosition()
@@ -27,7 +29,22 @@ namespace EcoTaxi
             Device.BeginInvokeOnMainThread(async () =>
             {
                 await _GeoLocation.getLocationGPS();
+                Position _position = new Position(GeoLocation.lat, GeoLocation.lng);
+                mapa.MoveToRegion(MapSpan.FromCenterAndRadius(_position, Distance.FromMeters(500)), true);
             });
+        }
+
+        void configmap()
+        {
+            mapa.UiSettings.CompassEnabled = true;
+            mapa.UiSettings.MyLocationButtonEnabled = true;
+            mapa.UiSettings.MapToolbarEnabled = true;
+            mapa.MyLocationEnabled = true;
+            mapa.FlowDirection = FlowDirection.LeftToRight;
+            mapa.MapType = MapType.Street;
+           
+
+
         }
     }
 }

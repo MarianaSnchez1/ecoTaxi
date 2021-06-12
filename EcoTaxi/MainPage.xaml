@@ -10,7 +10,6 @@
 
     <StackLayout>
         <mapa:Map x:Name="mapa" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"></mapa:Map>
-        
     </StackLayout>
 
 </ContentPage>
